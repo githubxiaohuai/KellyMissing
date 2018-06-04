@@ -1,0 +1,64 @@
+newmtl DoorGreyRubber00
+Kd 0.02745098 0.02745098 0.02745098
+illum 2
+
+newmtl CT_window
+Kd 0.2509804 0.2509804 0.2509804
+Tr 0.59
+d 0.41
+illum 2
+
+newmtl CT_windows
+Kd 0.2509804 0.2509804 0.2509804
+Tr 0.59
+d 0.41
+Ks 0.2 0.2 0.2
+illum 2
+
+newmtl DoorPlasticYellow
+Kd 1 1 0
+illum 2
+
+newmtl DoorPlasticBluePurple
+Kd 0.25 0.28 0.58
+illum 2
+
+newmtl DoorPlasticYellowGreen
+Kd 0.59 0.86 0.08
+illum 2
+
+newmtl DoorPlasticGreen
+Kd 0 0.66 0.2
+illum 2
+
+newmtl DoorPlasticOrange
+Kd 1 0.5 0
+illum 2
+
+newmtl DoorPlasticBlueGreen
+Kd 0.13 0.43 0.51
+illum 2
+
+newmtl DoorplasticBlue
+Kd 0 0 1
+illum 2
+
+newmtl DoorPlasticPurple
+Kd 0.5 0 0.5
+illum 2
+
+newmtl DoorPlasticRedOrange
+Kd 1 0.25 0
+illum 2
+
+newmtl DoorPlasticRed
+Kd 1 0 0
+illum 2
+
+newmtl DoorPlasticRedPurple
+Kd 0.87 0 0.13
+illum 2
+
+newmtl DoorPlasticYellowOrange
+Kd 1 0.75 0
+illum 2

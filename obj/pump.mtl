@@ -1,0 +1,57 @@
+newmtl Fuel
+Kd 1 1 1
+map_Kd sp\Fuel1.png
+illum 2
+
+newmtl PumpPaint2
+Kd 1 0.9955375 0.8382353
+map_Kd sp\whitepinture.png
+illum 2
+
+newmtl Cristal_fuel
+Kd 0.2794118 0.2794118 0.2794118
+Tr 0.41
+d 0.59
+illum 2
+
+newmtl PumpMetal
+Kd 1 1 1
+map_Kd sp\whitepinture.png
+illum 2
+
+newmtl PumpDarkmaterial
+Kd 0.2039216 0.2039216 0.2039216
+map_Kd sp\whitepinture.png
+illum 2
+
+newmtl PumpPaintmat
+Kd 0.5060554 0.531649 0.5735294
+map_Kd sp\whitepinture.png
+illum 2
+
+newmtl 12 - Default
+Kd 1 1 1
+illum 2
+
+newmtl Mfuel
+Kd 1 1 1
+map_Kd sp\Fuel1.png
+illum 2
+
+newmtl Fluid2
+Kd 0.2465398 0.3298532 0.8823529
+map_Kd sp\Fuel1.png
+illum 2
+
+newmtl ScreenP
+map_Kd sp\monitors.png
+illum 2
+
+newmtl CamBlackMaterial
+Kd 0.1137255 0.1137255 0.1137255
+illum 2
+
+newmtl MatPump2
+Kd 0.2039216 0.172549 0.6313726
+illum 2
+

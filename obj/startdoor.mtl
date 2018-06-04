@@ -1,0 +1,40 @@
+newmtl GreyRubber001
+Kd 0.07352942 0.07352942 0.07352942
+Ks 0.07201558 0.087412 0.1323529
+illum 2
+
+newmtl WhitePlastic1
+Kd 1 1 1
+Ks 0.1397059 0.1397059 0.1397059
+illum 2
+
+newmtl ColorPaint2
+Kd 0.3529412 0.2487481 0.09083045
+Ks 0.5622838 0.588808 0.7647059
+map_Kd sp\whitepinture.png
+illum 2
+
+newmtl Monitor
+Kd 1 1 1
+Ks 0.2 0.2 0.2
+map_Kd sp\monitors.png
+illum 2
+
+newmtl WhiteLight001
+Kd 1 1 1
+illum 2
+
+newmtl DoorGreyRubber00
+Kd 0.02745098 0.02745098 0.02745098
+illum 2
+
+newmtl DoorWhiteLight00
+Kd 1 1 1
+illum 2
+
+newmtl CT_window
+Kd 0.2509804 0.2509804 0.2509804
+Tr 0.59
+d 0.41
+illum 2
+
